@@ -1,0 +1,12 @@
+MeshMat
+1
+1
+3
+PBR
+3
+Diffuse:../Textures/DogAlbedo.png
+Bump:../Textures/DogNormal.png
+Metallic:../Textures/DogMS.png
+0
+0
+0
